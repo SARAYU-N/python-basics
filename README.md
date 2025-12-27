@@ -7,16 +7,16 @@ This repository contains basic Python program created after learning Python.
 This also helps beginners to learn python syntaxing, conditional statements 
 
 ###Features
--addition
--subtraction
--multiplication
--division
+- addition
+- subtraction
+- multiplication
+- division
 
 ###Concepts used
--variables
--input and output
--conditional statements
--operators
+- variables
+- input and output
+- conditional statements
+- operators
 
 ```bash
 python calculator.py
