@@ -6,13 +6,13 @@ This repository contains basic Python program created after learning Python.
 **basic calculator** is a simple python program that performs basic arithmetic operations. 
 This also helps beginners to learn python syntaxing, conditional statements 
 
-###Features
+### Features
 - addition
 - subtraction
 - multiplication
 - division
 
-###Concepts used
+### Concepts used
 - variables
 - input and output
 - conditional statements
